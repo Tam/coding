@@ -16,4 +16,7 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
