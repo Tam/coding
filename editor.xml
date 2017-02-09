@@ -5,14 +5,15 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-    </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\bwarning\b.*">
+    <pattern icon="question" pattern="\btodo\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bwarning\b.*">
       <option name="FOREGROUND" value="ff1c41" />
       <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="efa410" />
+      <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
   </component>
