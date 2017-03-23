@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="///" value="// $label$&#10;// =========================================================================" description="Comment Header" toReformat="false" toShortenFQNames="true">
-    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
