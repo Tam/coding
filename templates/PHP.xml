@@ -5,8 +5,14 @@
   </template>
   <template name="///" value="// $label$&#10;// =========================================================================" description="Comment Header" toReformat="false" toShortenFQNames="true">
     <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
   </template>
   <template name="//-" value="// $label$&#10;// -------------------------------------------------------------------------" description="Comment Sub-header" toReformat="false" toShortenFQNames="true">
     <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
