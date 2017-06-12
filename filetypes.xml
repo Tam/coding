@@ -9,7 +9,6 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <mapping ext="rss" type="Twig" />
       <mapping ext="plist" type="XML" />
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
@@ -41,7 +40,6 @@
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
@@ -49,6 +47,7 @@
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
       <mapping ext="rb" type="textmate" />
@@ -65,6 +64,7 @@
       <mapping ext="jb" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
+      <mapping ext="rss" type="Twig" />
     </extensionMap>
   </component>
 </application>
