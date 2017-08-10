@@ -16,9 +16,9 @@
       <mapping pattern="Guardfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
       <mapping pattern="fcgi" type="textmate" />
-      <mapping pattern="Appfile" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="arb" type="textmate" />
+      <mapping pattern="rjs" type="textmate" />
       <mapping pattern="Dangerfile" type="textmate" />
       <mapping pattern="Brewfile" type="textmate" />
       <mapping pattern="irbrc" type="textmate" />
@@ -29,19 +29,21 @@
       <mapping pattern="rb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
-      <mapping pattern="rjs" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
       <mapping pattern="jb" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
+      <mapping pattern="Appfile" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
+      <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
+      <mapping ext="gemspec" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
       <mapping ext="rb" type="textmate" />
       <mapping ext="prawn" type="textmate" />
@@ -52,11 +54,9 @@
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
-      <mapping ext="rhtml" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
       <mapping ext="jb" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
-      <mapping ext="gemspec" type="textmate" />
     </extensionMap>
   </component>
 </application>
