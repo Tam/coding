@@ -33,6 +33,7 @@
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
@@ -40,7 +41,6 @@
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping ext="scanfile" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
       <mapping ext="cheffile" type="textmate" />
@@ -61,6 +61,7 @@
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="berksfile.lock" type="textmate" />
+      <mapping ext="hobofile" type="textmate" />
       <mapping ext="erb" type="textmate" />
       <mapping ext="appfile" type="textmate" />
       <mapping ext="gymfile" type="textmate" />
@@ -77,7 +78,6 @@
       <mapping ext="matchfile" type="textmate" />
       <mapping ext="guardfile" type="textmate" />
       <mapping ext="puppetfile" type="textmate" />
-      <mapping ext="hobofile" type="textmate" />
       <mapping ext="rantfile" type="textmate" />
     </extensionMap>
   </component>
