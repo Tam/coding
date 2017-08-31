@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="copy" value="/**&#10; * $TITLE$&#10; *&#10; * @author    Tam McDonald&#10; * @copyright Ether Creative $YEAR$&#10; * @link      https://ethercreative.co.uk&#10; * @package   $PACKAGE$&#10; * @since     $SINCE$&#10; */" description="Copyright Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="jsQualifiedClassName" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PACKAGE" expression="jsSuggestVariableName" defaultValue="" alwaysStopAt="true" />
+    <variable name="SINCE" expression="" defaultValue="1.0.0" alwaysStopAt="true" />
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
