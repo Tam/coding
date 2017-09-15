@@ -7,7 +7,6 @@
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
       <mapping pattern=".vagrantplugins" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
@@ -16,6 +15,7 @@
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Appfile" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="arb" type="textmate" />
