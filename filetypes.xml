@@ -43,7 +43,9 @@
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
+      <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
+      <mapping ext="gemspec" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
       <mapping ext="rb" type="textmate" />
       <mapping ext="prawn" type="textmate" />
@@ -54,11 +56,9 @@
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
-      <mapping ext="rhtml" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
       <mapping ext="jb" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
-      <mapping ext="gemspec" type="textmate" />
     </extensionMap>
   </component>
 </application>
