@@ -35,6 +35,7 @@
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
@@ -42,7 +43,6 @@
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
