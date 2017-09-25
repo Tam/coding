@@ -4,6 +4,14 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
