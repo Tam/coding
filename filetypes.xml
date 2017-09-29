@@ -1,11 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="les" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="textmate" />
@@ -21,7 +16,6 @@
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
-      <mapping pattern="Appfile" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="arb" type="textmate" />
       <mapping pattern="rjs" type="textmate" />
@@ -44,6 +38,7 @@
       <mapping pattern="Matchfile" type="textmate" />
       <mapping pattern="Guardfile" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
+      <mapping pattern="Appfile" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
       <mapping ext="scanfile" type="textmate" />
