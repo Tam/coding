@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".buildrc" type="JSON" />
-      <removed_mapping ext="hphp" type="PHP" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="textmate" />
@@ -34,7 +33,6 @@
       <mapping pattern="rjs" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
@@ -43,6 +41,7 @@
       <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping ext="rbx" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
