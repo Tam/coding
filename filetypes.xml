@@ -4,6 +4,7 @@
       <mapping pattern=".gitattributes" type="Git file" />
       <mapping pattern=".buildrc" type="JSON" />
       <mapping pattern="composer.json" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="textmate" />
