@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jsonld" type="JSON" />
-      <mapping pattern="schema/build_db" type="PHP" />
       <mapping pattern="build_db" type="PHP" />
+      <mapping pattern="schema/build_db" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.pgsql" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
