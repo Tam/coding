@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping ext="jsonld" type="JSON" />
       <mapping pattern="build_db" type="PHP" />
       <mapping pattern="schema/build_db" type="PHP" />
@@ -8,6 +9,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.pgsql" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
