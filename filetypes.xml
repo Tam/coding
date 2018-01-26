@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitattributes" type="Git file" />
-      <mapping pattern=".buildrc" type="JSON" />
       <mapping pattern=".deployrc" type="JSON" />
+      <mapping pattern=".buildrc" type="JSON" />
       <mapping ext="jsonld" type="JSON" />
       <mapping pattern="build_db" type="PHP" />
       <mapping pattern="schema/build_db" type="PHP" />
