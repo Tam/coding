@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="CSS" injector-id="twig">
+      <display-name>custom statement CSS</display-name>
+      <place><![CDATA[twigCustomStatement("css")]]></place>
+    </injection>
+  </component>
+</application>
