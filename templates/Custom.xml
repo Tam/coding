@@ -4,12 +4,9 @@
     <context>
       <option name="CMAKE" value="false" />
       <option name="HTML" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PHP" value="true" />
       <option name="Python" value="false" />
-      <option name="TypeScript" value="true" />
       <option name="XML" value="false" />
       <option name="c" value="false" />
       <option name="cpp" value="false" />
@@ -20,10 +17,8 @@
     <context>
       <option name="CMAKE" value="false" />
       <option name="HTML" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PHP" value="true" />
       <option name="Python" value="false" />
       <option name="XML" value="false" />
       <option name="c" value="false" />
