@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Rust/Un-elide lifetimes" />
-  </component>
-</application>
