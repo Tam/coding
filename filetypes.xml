@@ -4,11 +4,12 @@
       <mapping pattern=".deployrc" type="JSON" />
       <mapping pattern=".buildrc" type="JSON" />
       <mapping ext="jsonld" type="JSON" />
+      <mapping ext="pde" type="ObjectiveC" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.mysql" type="PLAIN_TEXT" />
       <mapping pattern=".env.pgsql" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="Git file" />
