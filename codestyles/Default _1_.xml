@@ -31,6 +31,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
     <option name="KEEP_CASE_EXPRESSIONS_IN_ONE_LINE" value="true" />
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
@@ -167,6 +168,7 @@
     <option name="WHILE_BRACE_FORCE" value="1" />
     <option name="FOR_BRACE_FORCE" value="1" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
