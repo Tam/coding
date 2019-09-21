@@ -1,5 +1,8 @@
 <application>
   <component name="Arduino Support Settings">
     <option name="baudRate" value="9600" />
+    <boardCpuMap>
+      <entry key="uno" value="" />
+    </boardCpuMap>
   </component>
 </application>
