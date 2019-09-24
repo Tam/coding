@@ -37,7 +37,7 @@
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="?" value="// TODO: $todo$" toReformat="false" toShortenFQNames="true">
+  <template name="?" value="// TODO: $todo$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
